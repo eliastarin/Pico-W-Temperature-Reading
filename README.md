@@ -1,2 +1,2 @@
 # Pico-W-Temperature-Reading
-Temperature reading with DS18B20 sensor
+Receive temperature to the cloud from 2 DS18B20 sensors connected to a Raspberry Pi Pico W using the MQTT protocol. MQTT is a publish/subscribe messaging protocol that enables devices to broadcast and recieve messages in a simple manner. It's lightweight and efficient design makes it an ideal and very popular choice for communication between Internet of Things devices via the Cloud.
